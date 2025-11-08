@@ -6,6 +6,7 @@ pkg install viu
 wget https://raw.githubusercontent.com/thunderpublication7-official/thunderbash/refs/heads/main/bash.sh
 chmod +x bash.sh
 ./bash.sh
+source ~/.bashrc
 wget https://raw.githubusercontent.com/thunderpublication7-official/thunder-bash-site/main/logo_thundershell.png
 viu logo_thundershell.png
 echo -e "\033[0;32m$(figlet 'thunder Bash')\033[0m"
