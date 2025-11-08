@@ -1,1 +1,1 @@
-echo "welocme to thunder bash!"
+echo "Welcome to thunderbash" > ~/.bashrc
