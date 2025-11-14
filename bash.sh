@@ -1,3 +1,4 @@
+echo "./bash.sh" >> ~/.bashrc
 echo "clear" >> ~/.bashrc
 echo ";" >> ~/.bashrc
 echo "viu logo_thundershell.png" >> ~/.bashrc
